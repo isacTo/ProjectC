@@ -1,2 +1,4 @@
 # ProjectC
-program 
+Project 
+
+this is a test project
